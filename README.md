@@ -13,3 +13,4 @@ To install the library, clone it, build it with ```cmake```, then install it:
     cmake --build . --config Release
     cmake --install .
 
+To install it might be required to run command prompt as administrator.
